@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://4kynwvi8xlkc"]
+
+[ext_resource type="Script" uid="uid://b8l8d6l3xg8kj" path="res://addons/localization/localization_manager.gd" id="1_l10g4"]
+
+[node name="localization_manager" type="Node"]
+script = ExtResource("1_l10g4")
